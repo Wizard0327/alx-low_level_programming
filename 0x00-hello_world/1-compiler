@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILE comp.c -o comp.o
+gcc -c $CFILE main.c -o main.o
